@@ -9,7 +9,7 @@ output:
 
 ## Loading and preprocessing the data
 
-I use the packages dplyr, lubridate and ggplot2 and also lattice. I only use the lattice plotning for the last exercise. 
+I use the packages dplyr, lubridate and ggplot2 and also lattice. 
 
 ```{r echo=FALSE}
 require(dplyr)
